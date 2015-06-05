@@ -9,6 +9,7 @@ author:
 
 # Build settings
 markdown: kramdown
+baseurl: /
 source: .
 destination: ./_site
 permalink: /:title
